@@ -1,7 +1,7 @@
 Weather app
 
 This web app fetches weather data of city you enter from api and 
-display its current temperature.
+display its current temperature using OpenWeather API.
 
 To run this web app
 1. npm install
